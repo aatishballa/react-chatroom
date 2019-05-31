@@ -1,7 +1,5 @@
 import React from 'react';
 
-//test
-let test = 0 ;
 const Message = (props) => {
 
     return(
